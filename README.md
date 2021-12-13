@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/NomadicDrummer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NomadicDrummer)
 
 [![cruftyoldsysadmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruftyoldsysadmin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![cruftyoldsysadmin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruftyoldsysadmin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
