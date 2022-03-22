@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruftyoldsysadmin)
-[![Twitter](https://img.shields.io/badge/NomadicDrummer-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NomadicDrummer)
 [![Suport Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](http://savelife.in.ua)
