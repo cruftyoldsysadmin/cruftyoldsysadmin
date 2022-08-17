@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruftyoldsysadmin)
-[![Suport Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](http://savelife.in.ua)
+Greetings! I'm just this guy. I've been working in the datacenter/systems administration/dvops/IaaS field for a really long time. 
+
+I'm currently running [nomadops, llc](https://github.com/nomadops) a small IaaS consulting company focusing on Terraform implementation and maintenance and implementation.
