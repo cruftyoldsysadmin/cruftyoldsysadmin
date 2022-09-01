@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I'm just this guy. I've been working in the datacenter/systems administration/dvops/IaaS field for a really long time. 
+Greetings! I'm just this guy. I've been working in the Datacenter/Systems Administration/DevOps/IaaS world for a really long time. 
 
 I'm currently running [nomadops, llc](https://github.com/nomadops) a small IaaS consulting company focusing on Terraform implementation and maintenance and implementation.
