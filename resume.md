@@ -19,7 +19,7 @@ I'm an American citizen living in Istanbul, Turkiye (UTC+03).
 nomadops is a small consultancy focused on Infrastructure As Code (IAC) with Terraform, Kubernetes and CI/CD pipelines.
 
 **DevOps Engineer** (Contract) _04/2021 to 09/2021_
-**BitPusher, LLC** Remote from Istanbul
+**[BitPusher, LLC](https://bitpusher.com)** Remote from Istanbul
 
 This was a five-month sub-contract to help an angel-stage start-up build and scale their containerized micro services based applications in AWS Elastic Kubernetes Service.
 
@@ -30,7 +30,7 @@ This was a five-month sub-contract to help an angel-stage start-up build and sca
 * Wrote reams of documentation and built automated documentation processes to enable on-boarding and developer self-service
 
 **Sr DevOps Engineer** _11/2018 to 03/2020_
-**CloudPassage** Remote from Istanbul
+**[CloudPassage](https://cloudpassage.com/)** Remote from Istanbul
 
 Part of an internationally distributed DevOps/DevSecOps team responsible for the CloudPassage Halo SaaS platform.
 
@@ -39,7 +39,7 @@ Part of an internationally distributed DevOps/DevSecOps team responsible for the
 * Acted as team lead and primary point of contact for our offshored teams in Belarus and Ukraine including on-site recruiting and mentoring
 
 **Sr Infrastructure Engineer** _03/2016 to 08/2018_
-HotSchedules, LLC Remote from Istanbul
+[HotSchedules](https://hotschedules.com/) Remote from Istanbul
 
 Member of an internationally distributed ops team supporting global development efforts on building a new PaaS offering to replace a suite of monolithic services for the hospitality industry.
 
@@ -49,7 +49,7 @@ Member of an internationally distributed ops team supporting global development 
 * Integrated Clarify, LDAP, & Duo for federated AAA internal & external services Enabled developer self-service processes with Rundeck & Puppet
 * Puppet maintenance in a high-volume codebase with dozens of daily deployments
 
-**DevOps Consultant** _12/2014 to 03/2015_
+**DevOps Consultant** _08/2014 to 03/2015_
 Self-employed (San Francisco)
 
 * Replaced a large, monolithic chef repository with Ansible, Packer and Docker/ECS for a large data warehousing firm.
@@ -57,13 +57,8 @@ Self-employed (San Francisco)
 * Developed boto3 scripts and AWS Cloudformation stacks to replace a large repository of ad-hoc shell scripts
 * Implemented Jenkins CI/CD pipelines for app deployment and DevOps processes
 
-**Co-founder** _08/2014 to 12/2014_
-Edgyy (San Francisco)
-
-Built an edge-computing prototype for the gaming industry, but failed to raise funding.
-
 **Sr. DevOps Engineer (R&D)** _08/2013 to 08/2014_
-HERE Technologies (Berkeley, CA)
+[Nokia/HERE Technologies](https://here.com/) (Berkeley, CA)
 
 Supported development operations of a 50+ engineer mapping R&D team Replaced datacenter operations with 5,000+ nodes of daily spot instances requests processing 2TB per day of image, video, lidar, and mapping and fleet telemetry data
 
@@ -88,12 +83,12 @@ IAC and AWS consultant for various start-ups.
 Self-funded and built an api-driven, IPv4 BGP any-casted authoritative DNSservice provider serving 50k qps over 15 global pops focused on the hosting industry. Acquired to a dedicated server company in 2012.
 
 **DevOps Evangelist** _02/2011 to 10/2011_
-**PagerDuty** (San Francisco)
+**[PagerDuty](https://pagerduty.com/)** (San Francisco)
 
 I was the 7th employee at PagerDuty. Most of my time was spent on conference marketing and sales, with some Puppet and AWS engineering duties.
 
 **Co-founder** _07/2002 to 01/2010_
-BitPusher (San Francisco)
+[BitPusher](https://bitpusher.com/) (San Francisco)
 
 Co-founded an outsourced managed service provider and infrastructure consultancy.
 
@@ -102,12 +97,12 @@ Co-founded an outsourced managed service provider and infrastructure consultancy
 * Built tools and best practices for server/cloud automation, monitoring, deployment and reliability
 
 **Senior Systems Administrator** _07/2001 to 07/2002_
-**MyPoints** (San Francisco)
+**[MyPoints](https://mypoints.com/)** (San Francisco)
 
 Helped turn around a failed company whose infrastructure had been mothballed for several months. We literally restored the site from backup tapes then migrated from Oracle and Solaris to MySQL and Linux.
 
 **Sr Infrastructure Engineer** _05/2000 to 07/2001_
-**Napster** (Redwood City)
+**[Napster](https://napster.com/)** (Redwood City)
 
 I was the primary managing all elements of Napster’s production datacenter. At my time in Napster I guided our infrastructure as we grew from 30 to 80 employees,  our traffic increased over 1200% while our datacenter footprint grew 500%.
 
@@ -130,12 +125,12 @@ Paralogic (Beowulf HPC clusters) Bethlehem, PA
 * Helped clean-up and rebuild after our office burned down
 
 **Systems Administrator (Contract)** _11/1998 to 05/1999_
-**Register.com** (New York City)
+**[Register.com](https://register.com/)** (New York City)
 
 Part of a 12-person team maintaining several hundred servers and network devices in two production datacenters running what was then the world’s second largest commercial domain registrar.
 
 **Contract Developer (Marketing Communications)** _10/1997 to 11/1998_
-**Lucent Technologies** (Allentown, PA)
+**[Lucent Microelectronics](https://lucent.com/)** (Allentown, PA)
 
 Developed self-service tools to automate the creation and publishing of technical marketing, and support the marketing department.
 
@@ -150,7 +145,7 @@ Managed the servers of a midsized web hosting start-up.
 Systems administration, tech support and sales for a small dedicated and virtual hosting company.
 
 **Intern** _01/1994 to 01/1995_
-**Electronic Data Systems** Bethlehem, PA
+**[Electronic Data Systems](https://eds.com/)** Bethlehem, PA
 
 Supported SunOS workstations and Xterminals for Bethlehem Steel.
   
