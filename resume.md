@@ -39,18 +39,18 @@ Part of an internationally distributed DevOps/DevSecOps team responsible for the
 Member of an internationally distributed ops team supporting a roll-out of a new platform offering to replace a suite of monolithic services for the hospitality industry.
 
 * Supported 120+ engineers across 7 timezones
-* Automated AWS infrastructure with Puppet, Salt, Cloudformation
-* Achieved 99.999% overall service availability over a three-year period Automated Jenkins CI/CD infrastructure
-* Integrated Clarify, LDAP, & Duo for federated AAA internal & external services Enabled developer self-service processes with Rundeck & Puppet
-* Puppet maintenance in a high-volume codebase with dozens of daily deployments
+* Automated AWS infrastructure with Puppet, SaltStack, Cloudformation and Jenkins
+* Integrated Clarify, LDAP, & Duo for federated AAA internal & external services
+* Enabled developer self-service processes with Rundeck & Puppet
 
 **Percussion student - Istanbul -_12/2014 to 03/2016**
 Took a sabbatical to study Turkish hand percussion and backpack around Europe.
 
 **Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 01/2016_**
 
-Supported development operations of a 50+ engineer mapping R&D team Replaced datacenter operations with 5,000+ nodes of daily spot instances requests processing 2TB per day of image, video, lidar, and mapping and fleet telemetry data
+Supported development operations of the mapping R&D team 
 
+* Replaced datacenter operations with 5,000+ nodes of daily spot instances requests processing 2TB per day of image, video, lidar, and mapping and fleet telemetry data
 * Implemented Cloudformation, Chef and AWS:Opsworks to replace ad-hoc python scripts
 * Decreased dataset ingestion time by 90% time with a 10GB direct connection, and Aspera Instrumented our production pipeline with Ganglia, ELK, Sensu, and Graphite
 
@@ -67,7 +67,7 @@ IAC and AWS consultant for various start-ups.
 
 **Founder - DNS Works, LLC - San Francisco - _01/2010 to 01/2012_**
 
-Self-funded and built an api-driven, IPv4 BGP any-casted authoritative DNSservice provider serving 50k qps over 15 global pops focused on the hosting industry. Acquired to a dedicated server company in 2012.
+Bootstrapped an api-driven, IPv4 BGP anycasted authoritative DNSservice provider serving 50k qps over 15 global pops focused on the hosting industry. Acquired by a dedicated server company in 2012.
 
 **DevOps Evangelist - [PagerDuty](https://pagerduty.com/) - San Francisco- _02/2011 to 10/2011_**
 
@@ -83,13 +83,13 @@ Co-founded an outsourced managed service provider and infrastructure consultancy
 
 **Senior Systems Administrator - [MyPoints](https://mypoints.com/) (San Francisco) - _07/2001 to 07/2002_**
 
-Helped turn around a failed company whose infrastructure had been mothballed for several months. We literally restored the site from backup tapes then migrated from Oracle and Solaris to MySQL and Linux.
+Helped give a company a new lease on life after having been mothballed for several months. We literally restored the site from backup tapes then migrated from Oracle and Solaris to MySQL and Linux.
 
 **Sr Infrastructure Engineer - [Napster](https://napster.com/) (Redwood City) - _05/2000 to 07/2001_**
 
-I was the primary managing all elements of Napster’s production datacenter. At my time in Napster I guided our infrastructure as we grew from 30 to 80 employees,  our traffic increased over 1200% while our datacenter footprint grew 500%.
+Managed all elements of Napster’s production datacenter operations during a period of intense hypergrowth .
 
-* Grew our datacenters from 50 to 500+ servers including acquisition, physical installation and deployment
+* Grew our datacenters from 100 to 750+ servers including acquisition, physical installation and deployment
 * Managed a cisco bgp network
 * Slept under my desk far too frequently
 * Primary on-call 24/7/365
