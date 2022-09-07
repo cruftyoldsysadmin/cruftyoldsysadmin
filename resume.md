@@ -18,13 +18,13 @@ nomadops is a small consultancy focused on Infrastructure As Code (IAC) with Ter
 
 **DevOps Engineer (Contract) - [BitPusher, LLC](https://bitpusher.com) - Remote _04/2021 to 09/2021_**
 
-This was a short-term project helping an angel-stage start-up bootstrap, automate and deploy their micro-services infrastructure.
+This was a short-term project helping an AI start-up bootstrap, automate and deploy their micro-services infrastructure.
 
 * Implemented IAC with Gruntwork Reference Architecture
 * Supported internationally distributed development teams
 * Implemented Elastic Kubernetes Service using Terraform and ArgoCD
 * Implemented CI/CD pipelines with CircleCI, GitHub Actions and Jenkins
-* Wrote reams of documentation and built automated documentation processes to enable on-boarding and developer self-service
+* Produced reams of self-updating documentation to enable on-boarding and developer self-service.
 
 **Sr DevOps Engineer - [CloudPassage](https://cloudpassage.com/) - Remote - _11/2018 to 03/2020_**
 
@@ -32,11 +32,11 @@ Part of an internationally distributed DevOps/DevSecOps team responsible for the
 
 * Refactored a monolithic single-repo Terraform repo with a modularized, multi-repo approach with Terragrunt
 * Migrated a mature Mesosphere / DCOS infrastructure to Amazon Elastic Kubernetes Service (EKS) reducing cluster opex cost by 30%
-* Acted as team lead and primary point of contact for our offshored teams in Belarus and Ukraine including on-site recruiting and mentoring
+* Mentored our offshored engineers in Ukraine and Belarus
 
 **Sr Infrastructure Engineer - [HotSchedules](https://hotschedules.com/) Remote - _03/2016 to 08/2018_**
 
-Member of an internationally distributed ops team supporting global development efforts on building a new PaaS offering to replace a suite of monolithic services for the hospitality industry.
+Member of an internationally distributed ops team supporting a roll-out of a new platform offering to replace a suite of monolithic services for the hospitality industry.
 
 * Supported 120+ engineers across 7 timezones
 * Automated AWS infrastructure with Puppet, Salt, Cloudformation
@@ -44,14 +44,10 @@ Member of an internationally distributed ops team supporting global development 
 * Integrated Clarify, LDAP, & Duo for federated AAA internal & external services Enabled developer self-service processes with Rundeck & Puppet
 * Puppet maintenance in a high-volume codebase with dozens of daily deployments
 
-**DevOps Consultant - San Francisco - _08/2014 to 03/2015_**
+**Percussion student - Istanbul -_12/2014 to 03/2016**
+Took a sabbatical to study Turkish hand percussion and backpack around Europe.
 
-* Replaced a large, monolithic chef repository with Ansible, Packer and Docker/ECS for a large data warehousing firm.
-* Re-factored a large, monolithic chef repository in an AWS environment for a large da Implemented Jenkins for ci/cd pipelines
-* Developed boto3 scripts and AWS Cloudformation stacks to replace a large repository of ad-hoc shell scripts
-* Implemented Jenkins CI/CD pipelines for app deployment and DevOps processes
-
-**Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 08/2014_**
+**Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 01/2016_**
 
 Supported development operations of a 50+ engineer mapping R&D team Replaced datacenter operations with 5,000+ nodes of daily spot instances requests processing 2TB per day of image, video, lidar, and mapping and fleet telemetry data
 
