@@ -3,6 +3,8 @@
 [GitHub](https://github.com/cruftyoldsysadmin)
 [email](mailto:mhalligan@nomadops.io)
 
+## Infrastructure As Code / DevOps engineer with over 25 years of production experience
+
 Greetings, I'm Michael. I've been working in production infrastructure engineering for over 20 years. My primary focuses are Infrastructure as Code (IAC), Amazon Web Services and Kubernetes and tying it all together to implement DevOps pipelines and best practices.
 
 I'm seeking full-time remote employment with an American company in an individual contributor or team-lead role. Wherever I land, I want to work with an internationally distributed team working with Terraform and Amazon Web Services.
@@ -65,7 +67,7 @@ IAC and AWS consultant for various start-ups.
 * Several migrations from Puppet to Chef and Chef to Ansible
 * AWS provisioning for a big-data / hadoop analytics startup with Chef & Cloudformation
 * Puppet implementation for pre-acquisition compliance
-* Recruited and on-boarded 20 DevOps engineers for 4 companies
+* Recruited and on-boarded 20 DevOps engineers for 4 companies 
 * Pre-acquisition technical due-diligence for an early cloud computing startup
 
 **Founder - DNS Works, LLC - San Francisco - _01/2010 to 01/2012_**
@@ -94,5 +96,49 @@ I was the primary managing all elements of Napster’s production datacenter. At
 
 * Grew our datacenters from 50 to 500+ servers including acquisition, physical installation and deployment
 * Managed a cisco bgp network
-* Slept under my desk far too frequently
+* Slept under my desk far too frequently 
 * Primary on-call 24/7/365
+
+**Systems Administrator - eLease (Santa Clara, CA) - _06/2000 to 6/2001_**
+
+Systems administrator for a financial start-up at the ideal! incubator.
+
+**Cluster Technician - Paralogic - Bethlehem, PA - _06/1999 to 05/2000_**
+
+* Assembled, configured & shipped ~1,000 x86 servers for various HPC Beowulf clusters
+* Automated OS and cluster configuration using pxeboot, & bash
+* Helped clean-up and rebuild after our office burned down
+
+**Systems Administrator (Contract) - [Register.com](https://register.com/) New York - _11/1998 to 05/1999_**
+
+Part of a 12-person team maintaining several hundred servers and network devices in two production datacenters running what was then the world’s second largest commercial domain registrar.
+
+**Contract Developer (Marketing Communications)  - [Lucent Microelectronics](https://lucent.com/) Allentown, PA - _10/1997 to 11/1998_**
+
+Developed self-service tools to automate the creation and publishing of technical marketing, and support the marketing department.
+
+**Systems Administrator (Contract) - hostme.com Bethlehem, PA - _08/1996 to 09/1997_**
+
+Managed the servers of a midsized web hosting start-up.
+
+**Systems Administrator / Technical Support - Poconos.net Stroudsburg, PA - _01/1995 to 08/1996_**
+
+Systems administration, tech support and sales for a small dedicated and virtual hosting company.
+
+**Intern - [Electronic Data Systems](https://eds.com/) Bethlehem, PA - _01/1994 to 01/1995_**
+
+Supported SunOS workstations and Xterminals for Bethlehem Steel.
+  
+|Skill|Years experience|
+|----------------------|-----|
+|Amazon Web Services   | 10+ |
+|Infrastructure as Code| 10+ |
+|Shell Scripting       | 10+ |
+|Linux                 | 10+ |
+|Docker                | 7   |
+|CI/CD                 | 7   |
+|Terraform             | 6   |
+|Python                | 5   |
+|Kubernetes            | 3   |
+|Github Actions        | 2   |
+|Golang                | 1   |
