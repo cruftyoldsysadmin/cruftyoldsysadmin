@@ -1,11 +1,12 @@
 # Michael T. Halligan Resume
 
-[GitHub](https://github.com/cruftyoldsysadmin)
-[email](mailto:mhalligan@nomadops.io)
+[github.com/cruftyoldsysadmin](https://github.com/cruftyoldsysadmin)
+
+[mhalligan@nomadops.io](mailto:mhalligan@nomadops.io)
 
 Greetings, I'm Michael. I've been working in production infrastructure engineering for over 20 years. My primary focuses are Infrastructure as Code (IAC), Amazon Web Services and Kubernetes and tying it all together to implement DevOps pipelines and best practices.
 
-I'm seeking full-time remote employment with an American company in an individual contributor or team-lead role. Wherever I land, I want to work with an internationally distributed team working with Terraform and Amazon Web Services.
+I'm seeking a full-time role with an internationally distributed team working with Terraform and Amazon Web Services.
 
 I'm a US citizen living in Istanbul, Turkiye (UTC+03).
 
