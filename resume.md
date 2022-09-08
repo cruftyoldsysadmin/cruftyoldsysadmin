@@ -12,21 +12,21 @@ I'm a US citizen living in Istanbul, Turkiye (UTC+03).
 
 ## Work Experience
 
-**Founder- [nomadops](https://nomadops.io/) - Istanbul - _01/2022 to Present_**
+### Founder- [nomadops](https://nomadops.io/) - Istanbul - _01/2022 to Present_ 
 
 nomadops is a small consultancy focused on Infrastructure As Code (IAC) with Terraform, Kubernetes and CI/CD pipelines.
 
-**DevOps Engineer (Contract) - [BitPusher, LLC](https://bitpusher.com) - Remote _04/2021 to 09/2021_**
+### DevOps Engineer (Contract) - [BitPusher, LLC](https://bitpusher.com) - Remote _04/2021 to 09/2021_
 
-This was a short-term project helping an AI start-up bootstrap, automate and deploy their micro-services infrastructure.
+ Bootstrapping project helping an AI start-up automate and deploy their micro-services infrastructure and ci/cd pipelines.
 
-* Implemented IAC with Gruntwork Reference Architecture
+* Implemented IAC with Terragrunt Gruntwork Reference Architecture
 * Supported internationally distributed development teams
 * Implemented Elastic Kubernetes Service using Terraform and ArgoCD
 * Implemented CI/CD pipelines with CircleCI, GitHub Actions and Jenkins
-* Produced reams of self-updating documentation to enable on-boarding and developer self-service.
+* Produced reams of self-updating documentation to facilicate on-boarding and developer self-service.
 
-**Sr DevOps Engineer - [CloudPassage](https://cloudpassage.com/) - Remote - _11/2018 to 03/2020_**
+### Sr DevOps Engineer - [CloudPassage](https://cloudpassage.com/) - Remote - _11/2018 to 03/2020_
 
 Part of an internationally distributed DevOps/DevSecOps team responsible for the CloudPassage Halo SaaS platform.
 
@@ -34,7 +34,7 @@ Part of an internationally distributed DevOps/DevSecOps team responsible for the
 * Migrated a mature Mesosphere / DCOS infrastructure to Amazon Elastic Kubernetes Service (EKS) reducing cluster opex cost by 30%
 * Mentored our offshored engineers in Ukraine and Belarus
 
-**Sr Infrastructure Engineer - [HotSchedules](https://hotschedules.com/) Remote - _03/2016 to 08/2018_**
+### Sr Infrastructure Engineer - [HotSchedules](https://hotschedules.com/) Remote - _03/2016 to 08/2018_
 
 Member of an internationally distributed ops team supporting a roll-out of a new platform offering to replace a suite of monolithic services for the hospitality industry.
 
@@ -43,10 +43,10 @@ Member of an internationally distributed ops team supporting a roll-out of a new
 * Integrated Clarify, LDAP, & Duo for federated AAA internal & external services
 * Enabled developer self-service processes with Rundeck & Puppet
 
-**Percussion student - Istanbul -_12/2014 to 03/2016**
+### Percussion student - Istanbul -_12/2014 to 03/2016
 Took a sabbatical to study Turkish hand percussion and backpack around Europe.
 
-**Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 01/2016_**
+### Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 01/2016_
 
 Supported development operations of the mapping R&D team 
 
@@ -54,7 +54,7 @@ Supported development operations of the mapping R&D team
 * Implemented Cloudformation, Chef and AWS:Opsworks to replace ad-hoc python scripts
 * Decreased dataset ingestion time by 90% time with a 10GB direct connection, and Aspera Instrumented our production pipeline with Ganglia, ELK, Sensu, and Graphite
 
-**DevOps Consultant - Self-employed - San Francisco - _01/2010 to 08/2013_**
+### DevOps Consultant - Self-employed - San Francisco - _01/2010 to 08/2013_
 
 IAC and AWS consultant for various start-ups.
 
@@ -65,27 +65,27 @@ IAC and AWS consultant for various start-ups.
 * Recruited and on-boarded 20 DevOps engineers for 4 companies
 * Pre-acquisition technical due-diligence for an early cloud computing startup
 
-**Founder - DNS Works, LLC - San Francisco - _01/2010 to 01/2012_**
+### Founder - DNS Works, LLC - San Francisco - _01/2010 to 01/2012_
 
 Bootstrapped an api-driven, IPv4 BGP anycasted authoritative DNSservice provider serving 50k qps over 15 global pops focused on the hosting industry. Acquired by a dedicated server company in 2012.
 
-**DevOps Evangelist - [PagerDuty](https://pagerduty.com/) - San Francisco- _02/2011 to 10/2011_**
+### DevOps Evangelist - [PagerDuty](https://pagerduty.com/) - San Francisco- _02/2011 to 10/2011_
 
 I was the 7th employee at PagerDuty. Most of my time was spent on conference marketing and sales, with some Puppet and AWS engineering duties.
 
-**Co-Founder - [BitPusher](https://bitpusher.com/) - San Francisco - _07/2002 to 01/2010_**
+### Co-Founder - [BitPusher](https://bitpusher.com/) - San Francisco - _07/2002 to 01/2010_
 
-Co-founded an outsourced managed service provider and infrastructure consultancy.
+Built an outsourced managed service provider and infrastructure consultancy.
 
 * Heavily involved in most aspects of BitPusher including sales, marketing and engineering.
 * Architected & maintained bi-coastal and international datacenter presences for our hosted clients
 * Built tools and best practices for server/cloud automation, monitoring, deployment and reliability
 
-**Senior Systems Administrator - [MyPoints](https://mypoints.com/) (San Francisco) - _07/2001 to 07/2002_**
+### Senior Systems Administrator - [MyPoints](https://mypoints.com/) (San Francisco) - _07/2001 to 07/2002_
 
 Helped give a company a new lease on life after having been mothballed for several months. We literally restored the site from backup tapes then migrated from Oracle and Solaris to MySQL and Linux.
 
-**Sr Infrastructure Engineer - [Napster](https://napster.com/) (Redwood City) - _05/2000 to 07/2001_**
+### Sr Infrastructure Engineer - [Napster](https://napster.com/) (Redwood City) - _05/2000 to 07/2001_
 
 Managed all elements of Napster’s production datacenter operations during a period of intense hypergrowth .
 
