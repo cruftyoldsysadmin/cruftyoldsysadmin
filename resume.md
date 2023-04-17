@@ -4,7 +4,7 @@
 
 [mhalligan@nomadops.io](mailto:mhalligan@nomadops.io)
 
-Greetings, I'm Michael. I've been working in production infrastructure engineering for over 20 years. My primary focuses are Infrastructure as Code (IAC), Amazon Web Services and Kubernetes and tying it all together to implement DevOps pipelines and best practices.
+Greetings, I'm Michael. I've been working in production infrastructure engineering for over 20 years. My primary focuses are Infrastructure as Code (IAC), Amazon Web Services and Kubernetes and tying it all together to implement DevOps CI/CD pipelines and best practices.
 
 I'm seeking a full-time role with an internationally distributed team working with Terraform and Amazon Web Services.
 
@@ -12,7 +12,7 @@ I'm a US citizen living in Istanbul, Turkiye (UTC+03).
 
 ## Work Experience
 
-### Founder- [nomadops](https://nomadops.io/) - Istanbul - _01/2022 to Present_ 
+### Founder - [nomadops](https://nomadops.io/) - Istanbul - _01/2022 to Present_
 
 nomadops is a small consultancy focused on Infrastructure As Code (IAC) with Terraform, Kubernetes and CI/CD pipelines.
 
