@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I'm just this guy. I've been working in the Datacenter/Systems Administration/DevOps/IaaS world for a really long time. 
+Greetings! I'm just this guy. I've been working in the Datacenter/Systems Administration/DevOps/IaaS world for a really long time.  I'm a US citizen living in Istanbul (UTC+3) and I am seeking remote work with American or European companies on a full-time, contract or corp-to-corp basis. You can see my [resume here](https://github.com/cruftyoldsysadmin/cruftyoldsysadmin/blob/main/resume.md). 
 
-I'm currently running [nomadops, llc](https://github.com/nomadops) a small IaaS consulting company focusing on Terraform implementation and maintenance and implementation.
+
+I'm currently running [nomadops, llc](https://github.com/nomadops) a small IaaS consulting company focusing on Terraform implementation and maintenance and implementation. We are incubating a number of micro startups, including :
+
+- [profiles.dev](https://web.dev.profiles/dev) a GitHub App for generating professional developer profiles and showcasing projects
+- [terraform.careers](https://www.terraform.careers) a ChatGPT driven job board for Terraform developers
+- FireActions - a self-hosted high-performance utilizing FirecrackerMicroVM, Microk8s and GitHub Actions
