@@ -1,95 +1,129 @@
-# Michael T. Halligan Resume
+# Michael T Halligan
 
-[github.com/cruftyoldsysadmin](https://github.com/cruftyoldsysadmin)
+Infrastructure as Code and DevOps Engineer with almost 30 years of experience seeking remote employment or consulting engagements with globally distributed engineering organizations. I’m a US citizen working from Istanbul (UTC+3). I am available for direct employment, Corp to Corp, Upwork and Fiverr.
 
-[mhalligan@nomadops.io](mailto:mhalligan@nomadops.io)
+## EXPERIENCE
 
-Greetings, I'm Michael. I've been working in production infrastructure engineering for over 20 years. My primary focuses are Infrastructure as Code (IAC), Amazon Web Services and Kubernetes and tying it all together to implement DevOps CI/CD pipelines and best practices.
+**nomadops — Co-founder**
+June 2020 - Present
+DevOps and Infrastructure as Code consulting and tools development
 
-I'm seeking a full-time role with an internationally distributed team working with Terraform and Amazon Web Services.
+- Developed  a high-performance self-hosted GitHub Actions CI/CD service using FireCrackervm, Microk8s and Act
+- Implemented Terraform and Terragrunt with Atlantis pull request automation for an early-stage start-up’s AWS infrastructure
+- Developing ChatGPT driven niche job boards for digital nomads 
+- Developed a GitHub developer profile and resume hosting service. 
 
-I'm a US citizen living in Istanbul, Turkiye (UTC+03).
+**BitPusher, Remote — DevOps Consultant**
+April 2021 - September 2021
+Bootstrapped  an early-stage AI start-up to bootstrap their containerized microservices applications in AWS Elastic Kubernetes Service clusters. 
 
-## Work Experience
+- Deployed GruntWorks Terraform Reference Architecture 
+- Implemented  CI/CD with GitHub Actions, Terraform and Terragrunt
+- Developed deployment processes for GoLang microservices in Kubernetes using Helm, Kustomize, Terraform and ArgoCD 
 
-### Founder - [nomadops](https://nomadops.io/) - Istanbul - _01/2022 to Present_
+**CloudPassage, Remote – Sr. DevOps Engineer**
+April 2018 - March  2020
+Member of DevOps team responsible for the CloudPassage Halo SaaS platform.
 
-nomadops is a small consultancy focused on Infrastructure As Code (IAC) with Terraform, Kubernetes and CI/CD pipelines.
+- Refactored a monolithic terraform repo with Terragrunt,  reducing the codebase by 40 and testing/deploy time by 90%
+- Migrated a large-scale Mesosphere/DCOS infrastructure to AWS EKS, reducing monthly cluster costs by 25%
+- Mentored a team of engineers in Belarus and Ukraine, including on-site candidate selection, on-boarding, and vendor relations
+- Maintained a complex infrastructure with thousands of ec2 instance management with Ansible and Packer 
 
-### DevOps Engineer (Contract) - [BitPusher, LLC](https://bitpusher.com) - Remote _04/2021 to 09/2021_
+**HotSchedules, Remote  — Sr Infrastructure Engineer**
+July 2016 - August 2018
+Member of a globally distributed operations team managing the AWS infrastructure for a restaurant management  SaaS platform. 
 
- Bootstrapping project helping an AI start-up automate and deploy their micro-services infrastructure and ci/cd pipelines.
+- Replaced CloudFormation stacks and ad-hoc scripts with SaltStack
+- Worked closely with developers on cost optimization, helping reduce our monthly  AWS spend  from $75k to $45k in a 4-month period.
+- Migrated our monitoring system from StackDriver and logstash to Grafana and ELK stack
+- Implemented Okta for single-sign on to all of our internal applications
 
-* Implemented IAC with Terragrunt Gruntwork Reference Architecture
-* Supported internationally distributed development teams
-* Implemented Elastic Kubernetes Service using Terraform and ArgoCD
-* Implemented CI/CD pipelines with CircleCI, GitHub Actions and Jenkins
-* Produced reams of self-updating documentation to facilicate on-boarding and developer self-service.
+**Percussion student**
+March 2015 - August 2016
+Backpacking sabbatical in  Europe studying  Turkish and Balkan  percussion. 
 
-### Sr DevOps Engineer - [CloudPassage](https://cloudpassage.com/) - Remote - _11/2018 to 03/2020_
+**HERE (Nokia Mapping R&D) - Sr. DevOps Engineer**
+Dec 2012  - Dec 2014
+Built a  DevOps team  supporting  over 100 multidisciplinary engineers and a fleet of 250 vehicles for HERE’s mapping r&d organization. 
 
-Part of an internationally distributed DevOps/DevSecOps team responsible for the CloudPassage Halo SaaS platform.
+- Rearchitected our data ingestion architecture to scale to over 3 petabytes of images, video & lidar data per month utilizing Aspera, ec2 spot instances, s3, lustreFs, reducing our ingestion costs by 10%
+- Replaced 5 years worth of ad-hoc python/boto & bash scripts with Puppet and Cloudformation for AWS management
+- Utilized Docker and Jenkins to enable self-service for development and deployments
 
-* Refactored a monolithic single-repo Terraform repo with a modularized, multi-repo approach with Terragrunt
-* Migrated a mature Mesosphere / DCOS infrastructure to Amazon Elastic Kubernetes Service (EKS) reducing cluster opex cost by 30%
-* Mentored our offshored engineers in Ukraine and Belarus
+**DNS Works**
+October 2010 - August 2012
+We developed a  highly available service utilizing OpenBGP and IP Anycast in over a dozen global data centers. DNS Works was acquired in 2012.
 
-### Sr Infrastructure Engineer - [HotSchedules](https://hotschedules.com/) Remote - _03/2016 to 08/2018_
+**PagerDuty,  San Francisco - DevOps Engineer**
+January 2010 - October 2010
+Early employee at PagerDuty, an on-call alerting application. Focused on lead-generation and conference marketing. 
 
-Member of an internationally distributed ops team supporting a roll-out of a new platform offering to replace a suite of monolithic services for the hospitality industry.
+**BitPusher,  San Francisco - CTO / CoFounder**
+2003 - 2010
+Co-founded a profitable managed operations  provider.   I was involved in every aspect of running the business from sales to technical operations from our founding in 2003 until my exit in 2010. 
 
-* Supported 120+ engineers across 7 timezones
-* Automated AWS infrastructure with Puppet, SaltStack, Cloudformation and Jenkins
-* Integrated Clarify, LDAP, & Duo for federated AAA internal & external services
-* Enabled developer self-service processes with Rundeck & Puppet
+- Outsourced production operations for dozens of start-ups 
+- Recruited and mentored systems administrators
+- Built a small, profitable dedicated server hosting solution
+- Technical due diligence and auditing for an early cloud provider
+- Marketing, sales and customer management 
+- Developed  DNSPusher,  an anycasted,  authoritative DNS service. 
 
-### Percussion student - Istanbul -_12/2014 to 03/2016
-Took a sabbatical to study Turkish hand percussion and backpack around Europe.
+**Napster, Redwood City - Systems Administrator**
+2000 - 2001
+Managed the datacenter, server and cisco networking infrastructure for Napster, an early peer to peer music sharing start-up. 
 
-### Sr. DevOps Engineer (R&D) - [Nokia/HERE Technologies](https://here.com/) - Berkeley, CA - _08/2013 to 01/2016_
+- Automated server deployment using bootp and RedHat kickstart
+- Scaled from 4  racks to 800 servers in three datacenters
+- Managed all hardware purchasing from requirement gathering to physical deployment and server configuration
+- Managed a multi-datacenter BGP network of Cisco 6513 routers.
+- 24/7/365 on-call (I slept under my desk a lot)
 
-Supported development operations of the mapping R&D team 
+**Paralogic, Allentown - Beowulf Cluster technician**
+1999 - 2001
+Helped build, deploy and manage Beowulf based HPC clusters for universities 
 
-* Replaced datacenter operations with 5,000+ nodes of daily spot instances requests processing 2TB per day of image, video, lidar, and mapping and fleet telemetry data
-* Implemented Cloudformation, Chef and AWS:Opsworks to replace ad-hoc python scripts
-* Decreased dataset ingestion time by 90% time with a 10GB direct connection, and Aspera Instrumented our production pipeline with Ganglia, ELK, Sensu, and Graphite
+- Helped assemble, install and ship over 2,500 servers 
+- Scripted automated discovery and provisioning  tools
+- Remote and on-site customer support
 
-### DevOps Consultant - Self-employed - San Francisco - _01/2010 to 08/2013_
+**Lucent, Allentown - Web Developer**
+1999 - 2001
+Automated technical web page generation for circuitry schematics and technical documentation using  Perl and Shell
 
-IAC and AWS consultant for various start-ups.
+## Contact
 
-* Implemented metrics-based monitoring with Sensu, Graphite, Elasticsearch, Collectd, and Logstash
-* Several migrations from Puppet to Chef and Chef to Ansible
-* AWS provisioning for a big-data / hadoop analytics startup with Chef & Cloudformation
-* Puppet implementation for pre-acquisition compliance
-* Recruited and on-boarded 20 DevOps engineers for 4 companies
-* Pre-acquisition technical due-diligence for an early cloud computing startup
+[github.com/cruftyoldsysadmin](github.com/cruftyoldsysadmin)
 
-### Founder - DNS Works, LLC - San Francisco - _01/2010 to 01/2012_
+[forrecruiteremail@gmail.com](mailto:forrecruiteremail@gmail.com)
+## HostMe.com, Allentown - Datacenter technician
+1997- 1999
+Datacenter ops for an early dedicated server and colocation provider 
 
-Bootstrapped an api-driven, IPv4 BGP anycasted authoritative DNSservice provider serving 50k qps over 15 global pops focused on the hosting industry. Acquired by a dedicated server company in 2012.
+## Poconos Hosting, Stroudsburg - Customer support
+1995 - 1997
+Web hosting customer support administration
 
-### DevOps Evangelist - [PagerDuty](https://pagerduty.com/) - San Francisco- _02/2011 to 10/2011_
+## Electronic Data Systems, Bethlehem - IT support Intern
+1995 - 1997
+Tech support for Sun workstations and terminals for engineers and assembly line operations at Bethlehem Steel.
 
-I was the 7th employee at PagerDuty. Most of my time was spent on conference marketing and sales, with some Puppet and AWS engineering duties.
 
-### Co-Founder - [BitPusher](https://bitpusher.com/) - San Francisco - _07/2002 to 01/2010_
+## SKILLS
 
-Built an outsourced managed service provider and infrastructure consultancy.
+Infrastructure as Code,  Amazon Web Services, DevOps, Terraform, Terragrunt, Ansible, Packer, Puppet, CloudFormation,  Kubernetes, EKS,  ECS,  Fargate, Docker, Containers, CI/CD,  ArgoCD, Atlantis, GitHub Actions, DevOps Pipelines, CircleCI, Jenkins, Rundeck, spacelift,  GitOps, SlackOps,  Cloud Engineering, Monitoring, PagerDuty, Grafana, ElasticSearch, Kibana, Logstash, CloudWatch, Linux, Unix, On-call, Automation, Bash, Golang, Python,  Tfsec, infracost, Checkov, Driftctl, Snyk, IAC, Percussion Bicycle maintenance. 
 
-* Heavily involved in most aspects of BitPusher including sales, marketing and engineering.
-* Architected & maintained bi-coastal and international datacenter presences for our hosted clients
-* Built tools and best practices for server/cloud automation, monitoring, deployment and reliability
+## Extra-curricular activities
 
-### Senior Systems Administrator - [MyPoints](https://mypoints.com/) (San Francisco) - _07/2001 to 07/2002_
+Turkish & Balkan percussion, 
 
-Helped give a company a new lease on life after having been mothballed for several months. We literally restored the site from backup tapes then migrated from Oracle and Solaris to MySQL and Linux.
+Bicycle frame building (Wheel building too!)
 
-### Sr Infrastructure Engineer - [Napster](https://napster.com/) (Redwood City) - _05/2000 to 07/2001_
+## AWS Certifications
 
-Managed all elements of Napster’s production datacenter operations during a period of intense hypergrowth .
+* Solutions Architect Associate
 
-* Grew our datacenters from 100 to 750+ servers including acquisition, physical installation and deployment
-* Managed a cisco bgp network
-* Slept under my desk far too frequently
-* Primary on-call 24/7/365
+* Cloud Practitioner
+
+* SysOps Administrator Associate
