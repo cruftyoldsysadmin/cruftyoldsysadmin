@@ -20,6 +20,6 @@ Greetings! I'm just this guy. I've been working in the Datacenter/Systems Admini
 
 I'm currently running [nomadops, llc](https://github.com/nomadops) a small IaaS consulting company focusing on Terraform implementation and maintenance and implementation. We are incubating a number of micro startups, including :
 
-- [profiles.dev](https://web.dev.profiles/dev) a GitHub App for generating professional developer profiles and showcasing projects
+- [profiles.dev](https://web.dev.profiles/) a GitHub App for generating professional developer profiles and showcasing projects
 - [terraform.careers](https://www.terraform.careers) a ChatGPT driven job board for Terraform developers
 - FireActions - a self-hosted high-performance utilizing FirecrackerMicroVM, Microk8s and GitHub Actions
